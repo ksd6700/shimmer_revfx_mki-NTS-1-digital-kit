@@ -1,6 +1,7 @@
 .DS_Store
 build/
 *.ntkdigunit
+!shimmer_revfx.ntkdigunit
 *.elf
 *.hex
 *.bin
