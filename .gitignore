@@ -1,0 +1,11 @@
+.DS_Store
+build/
+*.ntkdigunit
+*.elf
+*.hex
+*.bin
+*.dmp
+*.list
+*.map
+*.o
+*.lst
