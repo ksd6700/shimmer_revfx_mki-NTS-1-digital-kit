@@ -1,8 +1,12 @@
 # ShimmerVerb for KORG logue SDK synths
 
-日本語は上、English is below.
+[日本語](#japanese) | [English](#english)
+
+<a id="japanese"></a>
 
 ShimmerVerb は KORG logue SDK 対応機種向けのカスタム・リバーブ・エフェクトです。通常の残響に、1オクターブ上へピッチシフトした成分をフィードバックして、明るく浮遊感のあるシマーリバーブを作ります。
+
+**English introduction:** ShimmerVerb is a custom reverb effect for KORG logue SDK instruments. It feeds an octave-up pitch-shifted signal back into the reverb, creating a bright, floating ambient tail. Ready-to-load builds are available for the NTS-1 digital kit mkI, minilogue xd, and prologue. [Read the full English documentation](#english).
 
 ## どのファイルをダウンロードすればいい？
 
@@ -162,6 +166,8 @@ python3 -m json.tool manifest.json
 KORG template files are covered by `LICENSE-KORG-BSD-3-Clause.txt`.
 
 ---
+
+<a id="english"></a>
 
 # ShimmerVerb for KORG logue SDK synths
 
